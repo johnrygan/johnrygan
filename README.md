@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @johnrygan
-- 👀 I’m interested in ...deep learning
-- 🌱 I’m currently learning ...machine learning
-- 💞️ I’m looking to collaborate on ...machine learning and web design
-- 📫 How to reach me ...omondijohn364@gmail.com
-- I am a backend developer, using Java, php and node.js.
-- Bootstrap for frontend development.
+John Omondi
+Expertise: Flutter and Dart, serverpod backend ,postgres and Mysql,Java Springboot, RDBMS, SDLC, Api, Restful Apis, OOP. Data Structures and Algorithms, System Design.
+Worked at Kenyatta National Hospital.
+Self Employed currently,creating new techniques, applications and APIs.
+
+
+
 
 <!---
 johnrygan/johnrygan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
