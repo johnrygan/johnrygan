@@ -1,5 +1,5 @@
 Zumorito techs
-Expertise: Flutter and Dart, serverpod backend ,postgres and Mysql,Java Springboot, RDBMS, SDLC, Api, Restful Apis, OOP. Data Structures and Algorithms, System Design.
+:Flutter and Dart, serverpod backend ,postgres and Mysql,Java Springboot, RDBMS, SDLC, Api, Restful Apis, OOP. Data Structures and Algorithms, System Design.
 Self Employed currently,creating new technologies, applications and APIs.
 
 
