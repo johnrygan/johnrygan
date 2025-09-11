@@ -1,5 +1,6 @@
 Zumorito techs
-:Flutter and Dart, serverpod backend ,postgres, Mysql,Java Springboot, RDBMS, SDLC, Api, Restful Apis, OOP. Data Structures and Algorithms, System Design, Mobile applications Android and IOS.
+:Flutter and Dart, serverpod backend ,postgres, Mysql,Java Springboot, RDBMS, SDLC, API, Restful APIs, OOP. Data Structures and Algorithms, System Design, Mobile applications both Android and IOS,
+Clean Architecture and Feature Based Development.
 
 
 
